@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+collections/LinkedTree.java
+collections/LinkedTreeTester.java
+collections/Node.java
+collections/package-info.java
